@@ -1,0 +1,9 @@
+The Strategy Pattern defines a family of algorithms,
+encapsulates each one, and makes them interchangeable.
+Strategy lets the algorithm vary independently from
+clients that use it.
+
+The following example project uses different types of 
+bird classes with inherit basic properties from the 
+Bird class, and then required additional properties are
+set for each bird based on the type of bird being referred.
